@@ -5,6 +5,9 @@
 
 makeCacheMatrix <- function(x = matrix()) {
 
+##if x is a square invertible matrix, then solve(x) returns its inverse
+
+
 }
 
 
